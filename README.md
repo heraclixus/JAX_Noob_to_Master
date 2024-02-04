@@ -21,3 +21,8 @@ Focusing on Diffrax package for modeling:
 ## JAX for LLM 
 
 Focusing on using JAX to implement transformer models and LLMs. 
+
+
+## JAX for Probability Numerics 
+
+Focusing on probability numerical algorithm implementations
